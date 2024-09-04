@@ -67,9 +67,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/fazamumtaz/fazamumtaz/output/snake.svg" alt="Snake animation" /> 
-
 ###
-
 <h3 align="left">Github Trophies</h3>
 
 ###
