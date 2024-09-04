@@ -58,7 +58,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="300" src="https://wallpaperaccess.com/full/7270403.gif"  />
 </div>
 
