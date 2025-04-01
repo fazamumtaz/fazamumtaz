@@ -2,11 +2,16 @@
 
 ###
 
-<h3 align="center">Software Engineering from Indonesia</h3>
+<h3 align="center">👨‍💻 Software Engineer | 📍 Indonesia</h3>
 
 ###
 
-<p align="left">🔭 I’m a Software Engineering student at IPB University<br><br>🌱 I’m currently learning Laravel and JavaScript will be my next learning path<br><br>💬 Ask me anything about software development things</p>
+<p align="left">
+🚀 **Software Engineering Student** at IPB University <br><br>
+📊 **Currently Learning**: Python for Data Analytics & AI <br><br>
+💬 **Ask Me Anything** about Software Development & Tech! <br><br>
+✨ Always Exploring & Building Cool Stuff!  
+</p>
 
 ###
 
