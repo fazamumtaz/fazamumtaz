@@ -7,9 +7,9 @@
 ###
 
 <p align="left">
-🚀 **Software Engineering Student** at IPB University <br><br>
-📊 **Currently Learning**: Python for Data Analytics & AI <br><br>
-💬 **Ask Me Anything** about Software Development & Tech! <br><br>
+🚀 <b>Software Engineering Student</b? at IPB University <br><br>
+📊 <b>Currently Learning</b>: Python for Data Analytics & AI <br><br>
+💬 <b>Ask Me Anything</b> about Software Development & Tech! <br><br>
 ✨ Always Exploring & Building Cool Stuff!  
 </p>
 
