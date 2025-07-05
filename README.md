@@ -2,14 +2,14 @@
 
 ###
 
-<h3 align="center">👨‍💻 Software Engineer | 📍 Indonesia</h3>
+<h3 align="center">🤖 AI Engineer | 📍 Indonesia</h3>
 
 ###
 
 <p align="left">
 🚀 <strong>Software Engineering Student</strong> at IPB University <br><br>
-📊 <strong>Currently Learning</strong>: Python for Data Analytics & AI <br><br>
-💬 <strong>Ask Me Anything</strong> about Software Development & Tech! <br><br>
+📊 <strong>Currently Learning</strong>: Python for Data Science & AI/ML <br><br>
+💬 <strong>Ask Me Anything</strong> about Data, Artificial intelligence & Machine Learning! <br><br>
 ✨ Always Exploring & Building Cool Stuff!  
 </p>
 
